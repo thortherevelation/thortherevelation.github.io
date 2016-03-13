@@ -348,7 +348,11 @@ img {
 	color: #a3a3a3;
 }
 #body.home .footer {
-	background-color: #000000;
+	background: url('../images/thor.jpg') no-repeat center center fixed; 
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
 	margin: 0;
 	overflow: hidden;
 	padding: 0;
